@@ -1,0 +1,58 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "age": 30,
+        "phone": "123-456-7890",
+        "email": "john.doe@gmail.com",
+        "address": {
+          "city": "Springfield"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 25,
+        "phone": "987-654-3210",
+        "email": "jane.smith@gmail.com",
+        "address": {
+          "city": "Springfield",
+          "street": "456 Elm St",
+          "state": "IL"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "age": 28,
+        "phone": "555-555-5555",
+        "email": "alice.johnson@gmail.com",
+        "address": {
+          "city": "Springfield",
+          "street": "789 Maple Ave",
+          "state": "IL"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Bob Brown",
+        "age": 40,
+        "phone": "222-333-4444",
+        "email": "bob.brown@gmail.com"
+      },
+      {
+        "id": 5,
+        "name": "Carol White",
+        "age": 35,
+        "phone": "111-222-3333",
+        "email": "carol.white@gmail.com",
+        "address": {
+          "city": "Springfield",
+          "street": "2020 Pine St",
+          "state": "IL"
+        }
+      }
+    ]
+  }
+  
